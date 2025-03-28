@@ -91,3 +91,6 @@ Feel free to reach out if you encounter any issues during the setup process.
 ## Getting Help
 
 If you ever get stuck or get a burning question while contributing, simply shoot your queries our way via the related GitHub issue, or hop onto our [Discord](https://discord.gg/8Tpq4AcN9c) for a quick chat.
+
+
+<!-- Contribution for humanitarian issue #15403: Error in dify calling searcxng parameter -->
